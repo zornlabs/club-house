@@ -2,7 +2,7 @@
 
 Clubhouse is dedicated to helping group organizers run successful communities. 
 
-Through the Clubhouse Hosting platform organizers can host a website with group tools like membership roster, event calendar and photo galleries. 
+Through the Clubhouse Hosting platform group organizers can host a website with tools like membership roster, event calendar and photo galleries. 
 
 Privacy and data ownership are core principals of the platform. You can run the site using your own domain and can export the full data at anytime. 
 
