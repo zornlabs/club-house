@@ -14,6 +14,8 @@ This repo is to be used to store documents and resources that are relevant acros
 
 * [Terminology](terminology.md) - The core terms and their meaning inside the project.
 * [Marketing](marketing.md) - Documents upcoming and past marketing efforts.
+* [User Testing Script (April 2020)](user-testing-script) - A sample script being used in user testing.
+
 
 ## Other Links
 
