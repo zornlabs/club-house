@@ -14,3 +14,26 @@ Documents upcoming and past marketing efforts.
 	* Define goals of user test.
 	* Conduct tests.
 	
+	
+	
+# Define How People Find Me and work on those channels
+
+Find keyword search terms?
+
+How do people discover competitors?
+
+Read Traction for ideas
+
+Someone wants to start a meetup about a certain technology.
+Why?
+Because they want to meet other people in their field.
+Why?
+So they can discover productive opportunities through these people.
+Why?
+So they can leave their current dead end job.
+Why?
+So they can do what they love and make money at the same time.
+Why?
+So they can provide a good life for their family.
+
+
