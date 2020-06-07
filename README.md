@@ -16,7 +16,6 @@ This repo is to be used to store documents and resources that are relevant acros
 * [Marketing](marketing.md) - Documents upcoming and past marketing efforts.
 * [User Testing Script (April 2020)](user-testing-script-april-2020.md) - A sample script being used in user testing.
 
-
 ## Other Links
 
-* [Trello: Roadmap](https://trello.com/b/Z74hJIPj/clubhouse-roadmap) - Track the big ideas being planned and scheduled. 
+* [Trello: Roadmap](https://trello.com/b/Z74hJIPj/clubhouse-roadmap) - Track the big goals and ideas being planned and scheduled. 

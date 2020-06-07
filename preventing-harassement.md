@@ -22,7 +22,7 @@ Cyberstalking is a type of online harassment that involves using electronic mean
 Some examples of cyberstalking (and how we can help prevent):
 
 * Sending manipulative, threatening, lewd or harassing emails from an assortment of email accounts.
-	* Enable Group Organizers to hide personal info of the leadership team and the memebers.
+	* Enable Group Organizers to hide personal info of the leadership team and the members.
 		* The group organizer should have to choose to publish their private email
 		* The platform should provide a non-email form to contact a group organizer (and maybe members in the future?)
 			* Should block abuse like repeated uses of such form with some form of captcha?
@@ -45,6 +45,14 @@ Some examples of cyberstalking (and how we can help prevent):
 [ ] Attending [ ] Not Attending
 
 [ ] List My Name and RSVP Status
+
+## Benefits of per-group scoped accounts.
+
+[Mira Violet 💙💜💖🌙✨🌷 on Twitter: "@zorn @clubhousehost yea i acquired 2 stalkers from https://t.co/cTnpf76Un9 and couldn't even get a response from their support team, or get them banned. good to see someone working towards solutions, that site is a dumpster fire" / Twitter](https://twitter.com/MiraVioIet/status/1263934075565457415)
+
+Group owners can remove people. It's not about getting them kicked out of Meetup or Facebook. They are removed from your group in total.
+
+We could ban emails outright maybe?
 
 ## Photos
 

@@ -15,6 +15,8 @@ Note: The project mistakenly used the incorrect spelling "Club House" in the pas
 
 * **Admin Bar** - if you can administer a group, while browsing the group site you'll see a series of admin like navigation links and tools across the top.
 
+* Membership Application - made available to non-signed in visitors via a link in the navigation.
+
 ## Actions
 
 * **Sign In** and **Sign Out** are preferred over login or log in.
