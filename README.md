@@ -1,3 +1,9 @@
+Clubhouse is now Guildflow.
+
+<https://guildflow.com>
+
+This repo will be archived and any new repos be created under the Guildflow organization.
+
 # Clubhouse Project
 
 Clubhouse is dedicated to helping group organizers run successful communities. 

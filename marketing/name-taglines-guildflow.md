@@ -24,8 +24,13 @@ Create a meetup website that promote data ownership and privacy.
 
 Guildflow
 
-Allows meetup organizers to create a modern group website that respects the data and privacy rights of its members.
+Empowers meetup organizers to create a modern group website that respects the data and privacy rights of its members.
 
 
 
 Grow your meetup with tools that respect its members.
+
+
+My vision for Guildflow is 
+
+to provide tools to let group organizers create websites and event calendars under their own brand, domain and control. I want to empower these groups to build a better digital community experience that is not under the restrictive and questionable thumb of larger corporate platforms whose interests are their own, and not your groups.

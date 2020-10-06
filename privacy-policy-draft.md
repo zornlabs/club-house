@@ -1,5 +1,13 @@
 # Privacy Policy
 
+An early draft I was working on based on this:
+
+https://whereby.com/information/tos/privacy-policy/
+
+I'm not married to the format or anything. Generally like the plain language of it. 
+
+Thought you might get value out of some of the technical details I started to document.
+
 Effective date: May 18th, 2020
 
 This Privacy Policy is provided by: Zorn Labs LLC as "IndieCampfire"/"we".
